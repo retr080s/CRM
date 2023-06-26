@@ -5,11 +5,143 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #1f2125;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  width: 5em;
+  height: 100vh;
+  position: fixed;
+  background-color: #18191b;
+  margin-top: -40px;
+}
+
+.navbar-nav {
+  list-style: none;
+  padding: 0;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  gap: 20px;
+}
+
+.nav-link {
+  font-size: 24px;
+  padding: 20px;
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #e2e2e2;
+}
+
+.nav-item {
+  width: 100%;
+}
+
+/* .nav-item:last-child {
+  margin-top: auto;
+} */
+
+option {
+  background-color: #1f2125;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+}
+
+select {
+  background-color: #1f2125;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+}
+
+.submitbtn {
+  background-color: #1f2125;
+  border: none;
+  border-radius: 10px;
+
+  cursor: pointer;
+}
+
+.submitbtn:hover {
+  background-color: #313131;
+}
+
+.submitbtn:active {
+  background-color: #393939;
+}
+
+.custInfoPaid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  background-color: #265c10;
+  border-left: 3px solid #3cc008;
+  border-radius: 10px;
+  width: 75%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  box-shadow: 3px 3px 10px #161616;
+}
+
+.custInfoNotPaid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  background-color: #634400;
+  border-left: 3px solid #ff9900;
+  border-radius: 10px;
+  width: 75%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  box-shadow: 3px 3px 10px #161616;
+}
+
+.custInfoCalled {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  background-color: #034246;
+  border-left: 3px solid #00aeff;
+  border-radius: 10px;
+  width: 75%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  box-shadow: 3px 3px 10px #161616;
+}
+
+.custInfoNotCalled {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  background-color: #460303;
+  border-left: 3px solid #ff0000;
+  border-radius: 10px;
+  width: 75%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  box-shadow: 3px 3px 10px #161616;
 }
