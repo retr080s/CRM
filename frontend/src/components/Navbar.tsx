@@ -11,33 +11,33 @@ const Navbar = () => {
       <ul className="navbar-nav">
         <Link to="/">
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <div className="nav-link">
               <AiOutlineHome />
-            </a>
+            </div>
           </li>
         </Link>
 
         <Link to="/users">
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <div className="nav-link">
               <BsPeople />
-            </a>
+            </div>
           </li>
         </Link>
 
         <Link to="/panel">
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <div className="nav-link">
               <BsTable />
-            </a>
+            </div>
           </li>
         </Link>
 
         <Link to="/settings">
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <div className="nav-link">
               <FiSettings />
-            </a>
+            </div>
           </li>
         </Link>
       </ul>
