@@ -1,0 +1,11 @@
+[
+  {
+    "id": "129381239129398",
+    "image": "src/images/",
+    "name": "John",
+    "email": "example@mail.com",
+    "phone": "123",
+    "team": "Support",
+    "active": true
+  }
+]
