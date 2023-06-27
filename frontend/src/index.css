@@ -16,6 +16,7 @@
 
 body {
   margin: 0;
+  margin-top: 40px;
 }
 
 .navbar {
@@ -29,7 +30,6 @@ body {
 .navbar-nav {
   list-style: none;
   padding: 0;
-  margin-top: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
