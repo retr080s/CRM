@@ -189,3 +189,31 @@ select {
     opacity: 1;
   }
 }
+
+/* -------------Add Lead Info------------- */
+
+.addleadmenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #18191b;
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.addleadmenu,
+h1 {
+  text-align: center;
+}
+
+.addleadmenuList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: none;
+}
+.addleadmenusubmitbutton {
+  margin-bottom: 10px;
+}

@@ -2,9 +2,8 @@ import "../index.css";
 
 import { AiOutlineHome } from "react-icons/ai";
 import { BsPeople, BsTable } from "react-icons/bs";
-import { FiSettings } from "react-icons/fi";
+import { RiPlayListAddLine } from "react-icons/ri";
 import { Link } from "react-router-dom";
-
 const Navbar = () => {
   return (
     <div className="navbar">
@@ -33,10 +32,10 @@ const Navbar = () => {
           </li>
         </Link>
 
-        <Link to="/settings">
+        <Link to="/addlead">
           <li className="nav-item">
             <div className="nav-link">
-              <FiSettings />
+              <RiPlayListAddLine />
             </div>
           </li>
         </Link>

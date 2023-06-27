@@ -3,7 +3,7 @@ import "./index.css";
 import Home from "./pages/Home";
 import Users from "./pages/Users";
 import Panel from "./pages/Panel";
-import Settings from "./pages/Settings";
+import Addlead from "./pages/Addlead";
 
 // external
 import { BrowserRouter, Routes, Route } from "react-router-dom";
@@ -15,7 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="users" element={<Users />} />
         <Route path="panel" element={<Panel />} />
-        <Route path="settings" element={<Settings />} />
+        <Route path="addlead" element={<Addlead />} />
       </Routes>
     </BrowserRouter>
   );
