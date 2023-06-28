@@ -10,37 +10,37 @@ const Users = () => {
           <p>Name: </p>
           <p>Email: </p>
           <p>Phone: </p>
-          <p>Team: </p>
+          <p>Owner </p>
         </div>
         <div className="usersInfo">
           <p>Name: </p>
           <p>Email: </p>
           <p>Phone: </p>
-          <p>Team: </p>
+          <p>Co-Owner </p>
         </div>
         <div className="usersInfo">
           <p>Name: </p>
           <p>Email: </p>
           <p>Phone: </p>
-          <p>Team: </p>
+          <p>HR </p>
         </div>
         <div className="usersInfo">
           <p>Name: </p>
           <p>Email: </p>
           <p>Phone: </p>
-          <p>Team: </p>
+          <p>Support </p>
         </div>
         <div className="usersInfo">
           <p>Name: </p>
           <p>Email: </p>
           <p>Phone: </p>
-          <p>Team: </p>
+          <p>Support </p>
         </div>
         <div className="usersInfo">
           <p>Name: </p>
           <p>Email: </p>
           <p>Phone: </p>
-          <p>Team: </p>
+          <p>Call Agent </p>
         </div>
       </div>
     </div>

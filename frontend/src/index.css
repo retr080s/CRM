@@ -202,6 +202,7 @@ select {
   width: 75%;
   margin: 0 auto;
   animation: fadeInAnimation ease 1s;
+  box-shadow: 0px 3px 10px #161616;
 }
 
 .addleadmenu,
@@ -240,4 +241,30 @@ h1 {
   background: #313131;
   cursor: pointer;
   margin-left: 5px;
+}
+
+/* -------------Home Info------------- */
+
+.home {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: auto;
+  align-items: center;
+  width: 75%;
+  row-gap: 40px;
+  animation: fadeInAnimation ease 1s;
+}
+
+.homeInfo {
+  background-color: #18191b;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  width: 25%;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  box-shadow: 0px 3px 10px #161616;
 }

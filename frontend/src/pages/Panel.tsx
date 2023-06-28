@@ -33,8 +33,8 @@ const Panel = () => {
         <p>Price: $550</p>
         <p>Status:</p>
         <select name="leadOption" id="leadOption">
-          <option value="Paid">Paid</option>
           <option value="NotPaid">Not Paid</option>
+          <option value="Paid">Paid</option>
           <option value="Called">Called</option>
           <option value="NotCalled">Not Called</option>
         </select>
@@ -50,9 +50,9 @@ const Panel = () => {
         <p>Price: $550</p>
         <p>Status:</p>
         <select name="leadOption" id="leadOption">
+          <option value="Called">Called</option>
           <option value="Paid">Paid</option>
           <option value="NotPaid">Not Paid</option>
-          <option value="Called">Called</option>
           <option value="NotCalled">Not Called</option>
         </select>
         <button className="submitbtn">Submit</button>
@@ -67,10 +67,10 @@ const Panel = () => {
         <p>Price: $550</p>
         <p>Status:</p>
         <select name="leadOption" id="leadOption">
+          <option value="NotCalled">Not Called</option>
           <option value="Paid">Paid</option>
           <option value="NotPaid">Not Paid</option>
           <option value="Called">Called</option>
-          <option value="NotCalled">Not Called</option>
         </select>
         <button className="submitbtn">Submit</button>
       </div>
