@@ -13,7 +13,7 @@ const Home = () => {
           <p>July: $31,209.00</p>
           <p>August: $24,278.00</p>
         </div>
-        <div className="usersInfo">
+        <div className="homeInfo">
           <p>Sales this week 📈</p>
           <p>Mon: $2278.00</p>
           <p>Tue: $778.00</p>
@@ -21,7 +21,7 @@ const Home = () => {
           <p>Thu: $2448.00</p>
           <p>Fri: $5576.00</p>
         </div>
-        <div className="usersInfo">
+        <div className="homeInfo">
           <p>Customers 🧑</p>
           <p>Eco LLC</p>
           <p>Green LLC</p>
