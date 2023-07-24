@@ -1,10 +1,14 @@
 # CRM
-🚧Under construction🚧
-
-Current look
 
 
-![Screenshot 2023-06-28 at 16-08-23 Vite React TS](https://github.com/retr080s/CRM/assets/84463361/395411dd-1828-4d7b-9fc4-477077def7a3)
-![Screenshot 2023-06-28 at 16-08-28 Vite React TS](https://github.com/retr080s/CRM/assets/84463361/0d653a00-5f5a-40ab-a9c5-0c10557d45ee)
-![Screenshot 2023-06-28 at 16-08-34 Vite React TS](https://github.com/retr080s/CRM/assets/84463361/1ccf31c4-e244-4498-97d2-908c009379a0)
-![Screenshot 2023-06-28 at 16-08-40 Vite React TS](https://github.com/retr080s/CRM/assets/84463361/eb6cbeed-cf29-461d-977a-a6b54eae338d)
+Made with React, Recharts, React Icons.
+
+`Web only`
+
+![Screenshot 2023-07-24 at 11-51-22 CRM](https://github.com/retr080s/CRM/assets/84463361/6b625fd5-ac73-4608-82d6-18815b06df38)
+
+![Screenshot 2023-07-24 at 11-51-31 CRM](https://github.com/retr080s/CRM/assets/84463361/0fb3c107-9d83-4a32-ae0b-f00342a7bf65)
+
+![Screenshot 2023-07-24 at 11-51-27 CRM](https://github.com/retr080s/CRM/assets/84463361/99e16e4d-d4fa-4710-b38b-44bd16dab52b)
+
+![Screenshot 2023-07-24 at 11-51-36 CRM](https://github.com/retr080s/CRM/assets/84463361/04e63d5c-973f-4e62-8c2b-a8ebf104953d)
