@@ -1,5 +1,6 @@
 # CRM 📊
 
+<p>A modern looking CRM web app. It includes a Sales panel which shows charts that show the overall sales... </p>
 
 Made with React, Recharts, React Icons.
 
