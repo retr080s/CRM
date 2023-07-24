@@ -5,6 +5,7 @@ const Users = () => {
   return (
     <div>
       <Navbar />
+      <h1>Users</h1>
       <div className="users">
         <div className="usersInfo">
           <p>Name: </p>

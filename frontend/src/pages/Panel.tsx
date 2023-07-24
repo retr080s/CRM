@@ -5,6 +5,7 @@ const Panel = () => {
   return (
     <div>
       <Navbar />
+      <h1>Panel</h1>
       <div className="custInfoPaid">
         <p>ID: 1238919</p>
         <p>Name: John Smith</p>

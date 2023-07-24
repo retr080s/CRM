@@ -254,7 +254,7 @@ h1 {
   margin: auto;
   align-items: center;
   width: 75%;
-  row-gap: 40px;
+  row-gap: 20px;
   animation: fadeInAnimation ease 1s;
 }
 
