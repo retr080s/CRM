@@ -1,4 +1,4 @@
-# CRM
+# CRM 📊
 
 
 Made with React, Recharts, React Icons.
